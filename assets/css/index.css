@@ -1,0 +1,14 @@
+@import url('headerFooter.css');
+/*#c5c1c0   lightGrey*/
+/*#0a1612   blackedGrey*/
+/*#1a2930   grey*/
+/*#f7ce3e   yellow*/
+div{
+    float: left;
+    width: 25%;
+    height: 100vh;
+}
+body{
+    font-family: 'Helvetica',sans-serif;
+    font-size: 14px;
+}

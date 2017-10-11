@@ -1,0 +1,12 @@
+.logSign{
+    text-align: right;
+}
+.logo img{
+    width: 100%;
+}
+.navigation{
+    text-align: right;
+}
+.navigation li{
+    display: inline-block;
+}
